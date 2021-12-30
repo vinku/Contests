@@ -18,9 +18,11 @@
 #include <time.h>
 using namespace std;
 
-class $CLASSNAME$ {
+class $CLASSNAME$
+{
 	public:
-	$RC$ $METHODNAME$($METHODPARMS$) {
+	$RC$ $METHODNAME$($METHODPARMS$)
+	{
 		
 	}
 };
